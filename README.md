@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is an AI system designed to assist legal professionals by comparing user-submitted facts with a curated database of legal cases. The AI retrieves the most relevant cases using Retrieval-Augmented Generation (RAG) and then leverages a large language model (LLM) to generate a detailed report. The system relies on past cases as the 'ground truth,' using them to inform the AI's reasoning process.
+This project is an AI system designed to assist legal professionals by comparing user-submitted facts with a curated database of legal cases. The AI retrieves the most relevant cases using Retrieval-Augmented Generation (RAG) and then leverages a large language model (LLM) to generate a detailed report. The system relies on past cases issued by the Unfair Competition Commission as the 'ground truth,' using them to inform the AI's reasoning process.
 
 Key features include:
 - **Fact Comparison**: Users introduce the facts of a case, and the AI retrieves the most similar legal cases from the curated database.
